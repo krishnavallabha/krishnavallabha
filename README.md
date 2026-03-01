@@ -136,9 +136,9 @@ class BayesianResearcher:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnavallabha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-virid-two-71.vercel.app/api?username=krishnavallabha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavallabha&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-virid-two-71.vercel.app/api/top-langs/?username=krishnavallabha&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8"/>
 
 <br/>
 
@@ -153,6 +153,22 @@ class BayesianResearcher:
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=krishnavallabha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github.com/krishnavallabha/krishnavallabha/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://github.com/krishnavallabha/krishnavallabha/blob/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://github.com/krishnavallabha/krishnavallabha/blob/output/github-snake.svg" />
+</picture>
 
 </div>
 
