@@ -7,7 +7,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   P(θ | X) ∝ P(X | θ) · P(θ)     — the only equation           ║
+║   P(θ | X) ∝ P(X | θ) · P(θ)     — the only equation             ║
 ║             that matters                                         ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -226,6 +226,6 @@ I'm always interested in conversations about probabilistic ML, quant research, a
 
 *Built with LaTeX in my heart and Bayes' theorem in my head.*
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=krishnavallabha&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 </div>
