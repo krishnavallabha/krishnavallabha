@@ -29,7 +29,7 @@
 
 ## ⟨ψ| About Me |ψ⟩
 
-I'm an undergraduate in Data Science driven by a single obsession: understanding systems under uncertainty *not just making models work, but knowing why they work..*
+I'm an undergraduate in **Data Science** driven by a single obsession: understanding systems under uncertainty — *not just making models work, but knowing why they work.*
 
 My intellectual home lives at the intersection of:
 
@@ -59,6 +59,7 @@ My intellectual home lives at the intersection of:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyMC](https://img.shields.io/badge/PyMC-F4A225?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -132,11 +133,14 @@ class BayesianResearcher:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnavallabha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+<a href="https://github.com/krishnavallabha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnavallabha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavallabha&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+</a>
 
-![Streak](https://streak-stats.demolab.com?user=krishnavallabha&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavallabha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com?user=krishnavallabha&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -146,9 +150,11 @@ class BayesianResearcher:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=krishnavallabha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=krishnavallabha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&cache_seconds=1800"/>
 
 </div>
+
+> ⚠️ *Stats widgets are served by third-party APIs and may occasionally need a page refresh to render.*
 
 ---
 
