@@ -15,7 +15,7 @@
 
 # Krishna Vallabha Goswami
 
-### `Bayesian · Probabilist · Quant Explorer`
+### `Learning Under Uncertainty · Bayesian ML · Quant Exploration`
 
 **[eigenkrishna.dev](https://eigenkrishna.dev)** &nbsp;·&nbsp; vallabhakrishna26@gmail.com
 
@@ -29,7 +29,7 @@
 
 ## ⟨ψ| About Me |ψ⟩
 
-I'm an undergraduate in **Data Science** driven by a single obsession: *understanding why things work, not just making them work.*
+I'm an undergraduate in Data Science driven by a single obsession: understanding systems under uncertainty *not just making models work, but knowing why they work..*
 
 My intellectual home lives at the intersection of:
 
@@ -134,7 +134,7 @@ class BayesianResearcher:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnavallabha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=krishnavallabha&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=krishnavallabha&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavallabha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
