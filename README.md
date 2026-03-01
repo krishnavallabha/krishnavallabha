@@ -60,9 +60,11 @@ My intellectual home lives at the intersection of:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyMC](https://img.shields.io/badge/PyMC-F4A225?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ### Data & Infra
@@ -72,6 +74,7 @@ My intellectual home lives at the intersection of:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
@@ -133,14 +136,13 @@ class BayesianResearcher:
 
 <div align="center">
 
-<a href="https://github.com/krishnavallabha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnavallabha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavallabha&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnavallabha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavallabha&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=krishnavallabha&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=krishnavallabha&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -150,11 +152,9 @@ class BayesianResearcher:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishnavallabha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&cache_seconds=1800"/>
+<img src="https://github-profile-trophy.vercel.app/?username=krishnavallabha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6"/>
 
 </div>
-
-> ⚠️ *Stats widgets are served by third-party APIs and may occasionally need a page refresh to render.*
 
 ---
 
