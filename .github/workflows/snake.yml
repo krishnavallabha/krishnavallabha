@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours automatically
-  workflow_dispatch:          # lets you trigger it manually from Actions tab
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -16,7 +16,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-mad/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
