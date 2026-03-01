@@ -1,24 +1,209 @@
-# 💫 About Me:
-I’m Krishna Vallabha Goswami.<br><br>I’m an undergraduate student in Data Science, but what really drives me is understanding why things work not just making them work.<br><br>I spend a lot of time thinking about uncertainty, patterns, and systems that evolve over time. Machine learning, probability, and quantitative finance attract me because they sit at the edge of structure and chaos  where small assumptions matter and clarity is earned, not given.
+<!-- ============================================================
+     KRISHNA VALLABHA GOSWAMI — GitHub Profile README
+     ============================================================ -->
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krishnavallabha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=krishnavallabha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavallabha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   P(θ | X) ∝ P(X | θ) · P(θ)     — the only equation           ║
+║             that matters                                         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krishnavallabha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# Krishna Vallabha Goswami
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### `Bayesian · Probabilist · Quant Explorer`
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krishnavallabha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**[eigenkrishna.dev](https://eigenkrishna.dev)** &nbsp;·&nbsp; vallabhakrishna26@gmail.com
+
+*"The map is not the territory — but a well-calibrated posterior gets close."*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Undergraduate+%7C+Data+Science+%26+ML;Bayesian+Inference+%7C+Stochastic+Processes+%7C+Quantitative+Finance;Turning+uncertainty+into+structure%2C+one+prior+at+a+time.)](https://git.io/typing-svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krishnavallabha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## ⟨ψ| About Me |ψ⟩
+
+I'm an undergraduate in **Data Science** driven by a single obsession: *understanding why things work, not just making them work.*
+
+My intellectual home lives at the intersection of:
+
+- 🎲 **Probability & Bayesian Inference** — I think in distributions, not point estimates. Uncertainty isn't noise; it's signal.
+- 📈 **Quantitative Finance** — Markets as complex adaptive systems. Regime shifts, fat tails, and the humbling reality of out-of-sample performance.
+- 🧠 **Machine Learning Theory** — Generalization bounds, inductive biases, and why your model works (or catastrophically fails).
+- ⏳ **Stochastic Processes & Time Series** — Systems that evolve under uncertainty. From Markov chains to SDEs.
+
+> *"Small assumptions have large downstream consequences. I'd rather know my assumptions than pretend I have none."*
+
+---
+
+## 🧮 Technical Arsenal
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### ML / Probabilistic Stack
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+### Data & Infra
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+## 🔬 Research Interests
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  BAYESIAN ML          →  Probabilistic graphical models,        │
+│                           variational inference, MCMC,          │
+│                           Gaussian Processes, BNNs              │
+│                                                                 │
+│  QUANTITATIVE FINANCE →  Factor models, stochastic vol,         │
+│                           risk-neutral pricing, regime          │
+│                           detection, portfolio optimization     │
+│                                                                 │
+│  STOCHASTIC SYSTEMS   →  SDEs, Markov chains, filtering         │
+│                           theory, Kalman/particle filters       │
+│                                                                 │
+│  STATISTICAL THEORY   →  PAC-Bayes bounds, information          │
+│                           geometry, causal inference            │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📐 The Bayesian Creed I Code By
+
+```python
+# This is how I think about every model I build
+
+class BayesianResearcher:
+    def __init__(self):
+        self.prior        = "explicit, defensible, updated"
+        self.likelihood   = "generative, not just discriminative"
+        self.posterior    = "a distribution — never a point"
+        self.uncertainty  = "a feature, not a bug"
+        self.gold_standard = "predictive calibration on held-out data"
+
+    def approach(self, problem):
+        assumptions = self.state_assumptions(problem)   # always first
+        model       = self.build_generative(assumptions)
+        posterior   = self.infer(model, data=problem.observations)
+        return self.decide_under_uncertainty(posterior)
+
+    def red_flags(self):
+        return [
+            "no uncertainty quantification",
+            "p-values without effect sizes",
+            "overfit confidence",
+            "ignoring prior information",
+        ]
+```
+
+---
+
+## 📊 GitHub Pulse
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnavallabha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=krishnavallabha&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnavallabha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=krishnavallabha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 📚 Reading List & Intellectual Anchors
+
+Things that shaped how I think:
+
+| Book / Paper | Why it matters |
+|---|---|
+| **Jaynes — Probability Theory: The Logic of Science** | Probability as extended logic. Changed everything. |
+| **Gelman et al. — Bayesian Data Analysis** | The practitioner's bible for principled inference. |
+| **Bishop — Pattern Recognition and ML** | Where rigor meets intuition in ML. |
+| **Hull — Options, Futures, and Other Derivatives** | How uncertainty gets priced by markets. |
+| **Shreve — Stochastic Calculus for Finance** | The mathematical backbone of quant work. |
+| **MacKay — Information Theory, Inference & Learning** | Unifies everything through information. Free online. |
+
+---
+
+## 🧩 Current Threads
+
+- 🔭 Exploring **Gaussian Processes** for non-parametric Bayesian regression
+- 📉 Studying **stochastic volatility models** (Heston, SABR) and their calibration
+- 🎯 Building intuition for **variational inference** and its tradeoffs vs MCMC
+- 📖 Working through the math of **PAC-Bayes generalization bounds**
+- 🏗️ Experimenting with **probabilistic programming** (PyMC, NumPyro)
+
+---
+
+## 💬 A Few Things I Believe
+
+> *All models are wrong. Some are useful. Fewer are calibrated.*
+
+> *If you can't write down your prior, you have one — you just don't know it.*
+
+> *The most dangerous number in statistics is 0.049.*
+
+> *In markets and in models: the tail wagged the dog more often than the textbook admits.*
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in conversations about probabilistic ML, quant research, and the philosophy of uncertainty. If you're working on something at the intersection of rigor and real-world messiness — let's talk.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-vallabha-goswami-23/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eigenkrishna.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vallabhakrishna26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnavallabha)
+
+---
+
+*Built with LaTeX in my heart and Bayes' theorem in my head.*
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=krishnavallabha&icon=0&color=6)](https://visitcount.itsvg.in)
+
+</div>
